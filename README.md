@@ -8,7 +8,7 @@ Es decir, una pantalla que de manera animada modifique los valores de la gráfic
 
 ![imagen](https://github.com/mtw-fundary/ejercicio/assets/92124165/be032c0e-70b8-41cc-b9d3-1e7e49053502)
 
-Una vez terminado, despliega tu proyecto en https://vercel.com/pricing.
+Una vez terminado, despliega tu proyecto en la versión gratuita de [Vercel](https://vercel.com/pricing).
 
 Puntos extra si los datos provienen de una base y no en "código duro".
 
