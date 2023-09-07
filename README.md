@@ -13,10 +13,15 @@ Una vez terminado, despliega tu proyecto en https://vercel.com/pricing.
 Puntos extra si los datos provienen de una base y no en "código duro".
 
 Aquí un buen tutorial que te puede ayudar a empezar:
+
 https://youtu.be/MoGkX4RvZ38
+
 Y un par de enlaces en los que combinan Svelte y D3:
+
 https://svelte.dev/repl/8722c32f4e1a44a98e3a3fc8a095b2d7?version=3.5.3
+
 https://blog.logrocket.com/data-visualization-svelte-d3/
+
 https://www.connorrothschild.com/post/svelte-and-d3
 
 ¡Suerte!
