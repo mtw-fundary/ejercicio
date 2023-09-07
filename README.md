@@ -1,6 +1,6 @@
 # Ejercicio
 
-Para este ejercicio, necesitas usar [SvelteKit](https://kit.svelte.dev/) para reproducir de la mejor manera posible la pantalla mostrada en
+Para este ejercicio, necesitas usar [SvelteKit](https://kit.svelte.dev/) y [D3](https://d3js.org/) para reproducir de la mejor manera posible la pantalla mostrada en
 
 https://survey.stackoverflow.co/2023/#most-popular-technologies-language-other
 
@@ -14,5 +14,9 @@ Puntos extra si los datos provienen de una base y no en "código duro".
 
 Aquí un buen tutorial que te puede ayudar a empezar:
 https://youtu.be/MoGkX4RvZ38
+Y un par de enlaces en los que combinan Svelte y D3:
+https://svelte.dev/repl/8722c32f4e1a44a98e3a3fc8a095b2d7?version=3.5.3
+https://blog.logrocket.com/data-visualization-svelte-d3/
+https://www.connorrothschild.com/post/svelte-and-d3
 
 ¡Suerte!
